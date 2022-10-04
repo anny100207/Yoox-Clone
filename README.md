@@ -4,7 +4,7 @@ Tech Stack Used :- HTML ,CSS JAVASSCRIPT REACT REDUX REACT
 
 ## Acknowledgements
 
-**Original website link**: https://everhour.com/
+**Original website link**: https://www.yoox.com/in/women
 
 **Netlify link of our project**:https://earnest-blancmange-c28eba.netlify.app/womens 
 
